@@ -8,3 +8,11 @@ The dataset used in this research is sourced from Kaggle at the following link: 
 
 ## 📙 Published Paper
 [See Published Paper Here](https://e-journal.hamzanwadi.ac.id/index.php/edumatic/article/view/25838)
+
+## ✨ Authors
+|         Authors         |       Lecturer         | 
+| ----------------------- | ---------------------- |
+| Muhammad Ikhsan Anugrah | Junta Zeniarja, M.Kom. |
+| Dicky Setiawan          |                        |
+
+Used as a Final Project for Undergraduate Degree in Informatics Engineering Study Programme, Universitas Dian Nuswantoro.
