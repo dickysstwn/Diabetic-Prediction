@@ -13,7 +13,7 @@ The dataset used in this research is sourced from Kaggle at the following link: 
 ### V1
 ![Research Flow](/Diabetic_Research_Method.png)
 ### V2
-![Research Flow](/KNN/KNN_Diabetic_Research Method.png)
+![Research Flow](/KNN/KNN_Diabetic_Research_Method.png)
 
 ## 📙 Published Paper (V1)
 [See Published Paper Here](https://e-journal.hamzanwadi.ac.id/index.php/edumatic/article/view/25838)
